@@ -1,7 +1,7 @@
 # Fuzzy Logic
 ## Giới thiệu
 Bài tập xây dựng các hệ thống Fuzzy Logic bằng Python nhằm mô phỏng các bài toán thực tế trong thương mại điện tử và logistics.
-
+---
 ## Công nghệ sử dụng
 * numpy
 * scikit-fuzzy
